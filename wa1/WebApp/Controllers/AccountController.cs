@@ -14,6 +14,7 @@ using WebApp.Models;
 //should not trigger
 //still should not trigger
 //1.0.7 should not trigger
+//1.0.8 should not trigger
 
 namespace WebApp.Controllers
 {
