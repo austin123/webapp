@@ -16,6 +16,7 @@ using WebApp.Models;
 //10 novar trigger
 //trigger
 //trig
+//trig restart
 
 namespace WebApp.Controllers
 {
